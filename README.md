@@ -1,5 +1,5 @@
 # CODSOFT_NOTIFY
-<br><br>
+<br>
 Notify - Notification Creator
 <br>
 Create personalized notifications with Notify.<br>
